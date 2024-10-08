@@ -1,0 +1,3 @@
+﻿  Number Game.cpp
+C:\Users\Aaron\source\repos\Number Game\Number Game.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Number Game.vcxproj -> C:\Users\Aaron\source\repos\Number Game\x64\Debug\Number Game.exe
